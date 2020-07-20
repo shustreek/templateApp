@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':core-style', ':core-view'
 rootProject.name = "Template Application"
