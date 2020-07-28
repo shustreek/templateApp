@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="height_separator">1dp</dimen>
+
+    <dimen name="icon_size_s">16dp</dimen>
+    <dimen name="icon_size_m">24dp</dimen>
+    <dimen name="icon_size_l">32dp</dimen>
+    <dimen name="progress_size">48dp</dimen>
+
+    <!-- base -->
+    <dimen name="elevation_default">@dimen/elevation_s</dimen>
+    <dimen name="elevation_s">2dp</dimen>
+    <dimen name="elevation_m">4dp</dimen>
+
+    <!-- base -->
+    <dimen name="padding_default">@dimen/padding_l</dimen>
+    <dimen name="padding_xxs">@dimen/margin_xxs</dimen>
+    <dimen name="padding_xs">@dimen/margin_xs</dimen>
+    <dimen name="padding_s">@dimen/margin_s</dimen>
+    <dimen name="padding_m">@dimen/margin_m</dimen>
+    <dimen name="padding_l">@dimen/margin_l</dimen>
+    <dimen name="padding_xl">@dimen/margin_xl</dimen>
+    <dimen name="padding_xxl">@dimen/margin_xxl</dimen>
+
+    <!-- base -->
+    <dimen name="margin_default">@dimen/margin_xs</dimen>
+    <dimen name="margin_xxs">2dp</dimen>
+    <dimen name="margin_xs">4dp</dimen>
+    <dimen name="margin_s">8dp</dimen>
+    <dimen name="margin_m">12dp</dimen>
+    <dimen name="margin_l">16dp</dimen>
+    <dimen name="margin_xl">24dp</dimen>
+    <dimen name="margin_xxl">32dp</dimen>
+
+    <!-- base -->
+    <dimen name="text_size_s">14sp</dimen>
+    <dimen name="text_size_l">18sp</dimen>
+
+</resources>
